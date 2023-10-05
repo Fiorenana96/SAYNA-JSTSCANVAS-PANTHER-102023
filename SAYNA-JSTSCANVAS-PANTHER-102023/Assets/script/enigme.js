@@ -3,7 +3,7 @@ $(document).ready(function() {
   //Compte à rebours avec le popup final
 
        // Définir la date de fin
-       const endDate = new Date('June 27, 2023 00:01:00').getTime();
+       const endDate = new Date('October 05, 2023 00:01:00').getTime();
     
        // Mettre à jour le minuteur toutes les secondes
        const timer = setInterval(() => {
